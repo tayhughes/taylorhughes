@@ -1,0 +1,47 @@
+[
+    {
+        "school": "Portland State University",
+        "school_acronym": "PSU",
+        "address_line": "1825 SW Broadway",
+        "city": "Portland",
+        "state": "OR",
+        "zipcode": "97201",
+        "start_month": "September",
+        "start_year": "2021",
+        "end_month": "December",
+        "end_year": "2024",
+        "is_curr_attendee": "yes",
+        "major_descript": "BS Computer Science",
+        "gpa": "3.40"
+    },
+    {
+        "school": "Clackamas Community College",
+        "school_acronym": "CCC",
+        "address_line": "19600 Molalla Ave",
+        "city": "Oregon City",
+        "state": "OR",
+        "zipcode": "97045",
+        "start_month": "September",
+        "start_year": "2017",
+        "end_month": "March",
+        "end_year": "2020",
+        "is_curr_attendee": "no",
+        "major_descript": "General Pre-requisites",
+        "gpa": "3.37"
+    },
+    {
+        "school": "Oregon City High School",
+        "school_acronym": "OCHS",
+        "address_line": "19761 S Beavercreek Rd",
+        "city": "Oregon City",
+        "state": "OR",
+        "zipcode": "97045",
+        "start_month": "September",
+        "start_year": "2013",
+        "end_month": "August",
+        "end_year": "2017",
+        "is_curr_attendee": "no",
+        "major_descript": "HS Diploma",
+        "gpa": "3.56"
+    }
+]

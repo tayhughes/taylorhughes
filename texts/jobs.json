@@ -1,0 +1,72 @@
+[
+    {
+        "company": "FedEx Freight",
+        "address_line": "750 NE Fazio Way",
+        "city": "Portland",
+        "state": "OR",
+        "zipcode": "97211",
+        "position": "Freight Handler",
+        "description": "Load and offload trailers freight according to company procedure. Collaborated with fellow coworkers to safely secure large freight and hazardous material shipments.",
+        "start_month": "April",
+        "start_year": "2023",
+        "end_month": "August",
+        "end_year": "2023",
+        "curr_employed": "no"
+    },
+    {
+        "company": "FedEx Ground",
+        "address_line": "2460 NW Sundial Rd",
+        "city": "Troutdale",
+        "state": "OR",
+        "zipcode": "97060",
+        "position": "Package Handler",
+        "description": "Loaded trailers with packages following company box stacking guidelines to ensure safe transport. Properly cared for hazardous material shipments according to company policy.",
+        "start_month": "June",
+        "start_year": "2022",
+        "end_month": "October",
+        "end_year": "2022",
+        "curr_employed": "no"
+    },
+    {
+        "company": "Amazon",
+        "address_line": "5647 NE Huffman St",
+        "city": "Hillsboro",
+        "state": "OR",
+        "zipcode": "97124",
+        "position": "Customer Returns Assoc.",
+        "description": "Processed returned clothing items and evaluated whether they were resellable. Audited coworker processed returns to ensure company guidelines were being followed.",
+        "start_month": "January",
+        "start_year": "2021",
+        "end_month": "July",
+        "end_year": "2021",
+        "curr_employed": "no"
+    },
+    {
+        "company": "IBEW Local 48",
+        "address_line": "15937 NE Airport Way",
+        "city": "Portland",
+        "state": "OR",
+        "zipcode": "97230",
+        "position": "Material Handler",
+        "description": "Organized work area for electricians and fellow material handlers. Managed inventory for necessary materials with collaboration of jobsite foreman. Completed weekly safety talks.",
+        "start_month": "July",
+        "start_year": "2020",
+        "end_month": "January",
+        "end_year": "2021",
+        "curr_employed": "no"
+    },
+    {
+        "company": "FedEx Express",
+        "address_line": "5159 NE Cornfoot Rd",
+        "city": "Portland",
+        "state": "OR",
+        "zipcode": "97218",
+        "position": "HWT Material Handler",
+        "description": "Loaded and offloaded trailers with freight. Stacked pallets and netted them appropriately for aircraft transport. Conducted weekly reports for immediate supervisor. Tracked shipments",
+        "start_month": "August",
+        "start_year": "2018",
+        "end_month": "July",
+        "end_year": "2020",
+        "curr_employed": "no"
+    }
+]
