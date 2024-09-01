@@ -26,6 +26,7 @@ body {
   width: 142px;
   height: auto;
   padding: 10px;
+  padding-top: 1px;
 }
 
 #small-screen-header {
@@ -55,6 +56,7 @@ nav ul {
   width: 120px;
   padding: 10px;
   margin: 0;
+  margin-bottom: 8px;
   text-decoration-line: none;
   text-align: center;
   background-color: var(--white);
@@ -70,7 +72,13 @@ main {
   border: 2px solid var(--blue);
   border-radius: 5px;
   margin-left: 172px;
+  margin-top: 5px;
   width: 785px;
+}
+
+h1#land-page-h1 {
+  margin-top: 14px;
+  margin-bottom: 15px;
 }
 
 h1,
