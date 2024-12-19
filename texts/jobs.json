@@ -1,5 +1,19 @@
 [
     {
+        "company": "Oregon Invasive Species Council",
+        "address_line": "(Remote)",
+        "city": "Portland",
+        "state": "OR",
+        "zipcode": "",
+        "position": "Software Developer Intern",
+        "description": "Lead a team to revamp the Oregon Invasive Species Hotline website as part of a capstone project with PSU to present possible changes for the website. Improved accessibility, user friendliness of the website.",
+        "start_month": "July",
+        "start_year": "2024",
+        "end_month": "December",
+        "end_year": "2024",
+        "curr_employed": "no"
+    },
+    {
         "company": "FedEx Freight",
         "address_line": "750 NE Fazio Way",
         "city": "Portland",
